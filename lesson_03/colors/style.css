@@ -1,5 +1,33 @@
+h1 {
+  /* word */
+  color: blue;
+  text-decoration: underline;
+  background-color: gold;
+}
+
+h2 {
+  /* hex */
+  color: purple;
+  font-weight: bold;
+  font-size: 25px;
+  border: 10px solid orange;
+
+}
+
+p {
+  width: 50%;
+  height: 200px;
+  background-color: gray;
+  border-color: black;
+  color: white;
+}
 
 
-
-
-
+footer {
+        background-color: black;
+        border-color: lightgreen;
+        font-size: 20px;
+        color: white;
+        font-family: Roboto-black;
+        text-align: center;
+}
