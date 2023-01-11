@@ -4,4 +4,6 @@
 # $ git status      //Check Status of working Tree
 # $ git commit      //Commit Changes to index
 # $ git push        // Push to remote repository
-# $ git pull        // Pull from remote repository
+# $ git pull        // Pull latest from remote repository
+# $ git clone       // Clone repository into a new directory
+

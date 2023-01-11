@@ -1,3 +1,5 @@
 # Foundations of Programming
- Code Platoon
+
+Code Platoon
+
 # Day - 1 Git and Github/InstallFest
