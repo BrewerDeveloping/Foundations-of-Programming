@@ -1,11 +1,18 @@
-#rhino {
-  color: blue;
-}
-
-#zebra {
-  color:red;
+section>h2 {
+  color:blue;       /* Changes both Rhino and Zebra to blue*/
 }
 
 .harryPotter {
-    color: gold;
+    color: gold;    /* Changes only Hufflepuff to gold */
 }
+
+
+.likesToQuack {
+  color: black !important;   /* Duck selected with 10 points and changes to black | !important selector = 1000 points to specifity 
+                              | Always avoid using !important or inline CSS*/
+}
+
+#rhino {
+  color: red !important;      /* Changed Rhino to red for demo purpose of*/
+}              /* specificity showing 100 points used thanks to ID selection*/
+              /* !important selector = 1000 points to specifity | Always avoid using !important or inline CSS */
